@@ -279,6 +279,25 @@ width:0;
 
 }
 
+.project{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+.project a{
+justify-content: center;
+padding:15px 30px;
+background:#00f7ff;
+color:black;
+text-decoration:none;
+font-weight:bold;
+border-radius:50px;
+transition:.4s;
+}
+
+
 .contact{
 
 display:flex;
